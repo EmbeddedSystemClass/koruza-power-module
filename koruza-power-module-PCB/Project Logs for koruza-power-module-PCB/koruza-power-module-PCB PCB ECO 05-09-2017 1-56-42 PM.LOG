@@ -1,0 +1,16 @@
+Added Component: Designator=U1(KTT0005B)
+Added Component: Designator=U2(KTT0005B)
+Added Pin To Net: NetName=PWR_IN+ Pin=U1-1
+Added Pin To Net: NetName=NetD1_1 Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=NetR1_1 Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U1-6
+Added Pin To Net: NetName=PWR_IN+ Pin=U2-1
+Added Pin To Net: NetName=NetD2_1 Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=NetR3_1 Pin=U2-4
+Added Pin To Net: NetName=GND Pin=U2-5
+Added Pin To Net: NetName=GND Pin=U2-6
+Added Member To Class: ClassName=PAGE2 - POWER Member=Component U1 LM2596S-5.0/NOPB
+Added Member To Class: ClassName=PAGE2 - POWER Member=Component U2 LM2596S-5.0/NOPB
