@@ -1,0 +1,4 @@
+Added Component: Designator=R7(RES0603)
+Added Pin To Net: NetName=NetC6_1 Pin=R7-1
+Added Pin To Net: NetName=PWR_OUT_+9V Pin=R7-2
+Added Member To Class: ClassName=PAGE2 - POWER Member=Component R7 1k

@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=GND Pin=D1-2
+Removed Member From Class: ClassName=PAGE2 - POWER Member=D1
+Added Component: Designator=D?(SMC/DO-214AC)
+Added Pin To Net: NetName=GND Pin=D?-2
+Added Pin To Net: NetName=NetD?_1 Pin=D?-1
+Added Pin To Net: NetName=NetD?_1 Pin=L1-1
+Added Pin To Net: NetName=NetD?_1 Pin=U1-2
+Added Net: Name=NetD?_1
+Added Member To Class: ClassName=PAGE2 - POWER Member=Component C? 100nF
+Added Member To Class: ClassName=PAGE2 - POWER Member=Component C? 68pF
+Added Member To Class: ClassName=PAGE2 - POWER Member=Component C? 1uF
+Added Member To Class: ClassName=PAGE2 - POWER Member=Component C? 22pF
+Added Member To Class: ClassName=PAGE2 - POWER Member=Component D? 1N4148W-7-F.
+Added Member To Class: ClassName=PAGE2 - POWER Member=Component D? SK34A-TP
+Added Member To Class: ClassName=PAGE2 - POWER Member=Component R? 105k
+Added Member To Class: ClassName=PAGE2 - POWER Member=Component R? 69.8k
+Added Member To Class: ClassName=PAGE2 - POWER Member=Component R? 10k
