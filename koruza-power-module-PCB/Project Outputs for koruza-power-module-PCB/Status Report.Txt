@@ -1,6 +1,6 @@
 Project Outputs Generation Report
 ---------------------------------
-Start Output Generation At 3:19:02 PM On 05/16/2017
+Start Output Generation At 1:44:03 PM On 05/30/2017
 
 Output: Bill of Materials
 Type  : BOM
@@ -11,4 +11,4 @@ From  : Variant [[No Variations]] of Project [koruza-power-module-PCB.PrjPcb]
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 3:19:20 PM On 05/16/2017
+Finished Output Generation At 1:44:24 PM On 05/30/2017

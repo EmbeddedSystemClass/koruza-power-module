@@ -21,7 +21,7 @@ TargetOutputMedium=Folder Structure
 VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=Canon MB2000 series Printer WS
+TargetPrinter=Foxit Reader PDF Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -144,7 +144,7 @@ Configuration6_Item1=CaptionAsName
 Configuration6_Name2=Filter
 Configuration6_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
 Configuration6_Name3=General
-Configuration6_Item3=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=False|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=..\..\..\Desktop\koruza_templates\BOM\BOM Purchase Live.xlsx|BatchMode=5|FormWidth=1383|FormHeight=956|SupplierProdQty=5|SupplierAutoQty=True|SupplierUseCachedPricing=False|SupplierCurrency=<none>
+Configuration6_Item3=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=False|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=..\..\..\Desktop\koruza_templates\BOM\BOM Purchase Live.xlsx|BatchMode=5|FormWidth=1383|FormHeight=956|SupplierProdQty=20|SupplierAutoQty=True|SupplierUseCachedPricing=False|SupplierCurrency=<none>
 Configuration6_Name4=GroupOrder
 Configuration6_Item4=LibRef=True
 Configuration6_Name5=OutputConfigurationParameter1
